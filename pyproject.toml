@@ -1,0 +1,17 @@
+[project]
+name = "attnvis"
+version = "0.0.1"
+description = "Attention visualisation tools for Transformers"
+authors = [{ name = "Mahsa Shams" }]
+requires-python = ">=3.9"
+
+dependencies = [
+    "numpy",
+    "matplotlib",
+    "torch",
+]
+
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
+
