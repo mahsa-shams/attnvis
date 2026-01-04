@@ -1,0 +1,14 @@
+# Core
+numpy>=1.26
+pillow>=10.0
+matplotlib>=3.8
+
+# ML
+torch>=2.2
+torchvision>=0.17
+timm>=1.0.0
+
+# Nice-to-have
+opencv-python-headless>=4.9
+typer>=0.12
+rich>=13.7
