@@ -9,6 +9,9 @@ torchvision>=0.17
 timm>=1.0.0
 
 # Nice-to-have
+pydantic>=2.0
+requests>=2.31
 opencv-python-headless>=4.9
 typer>=0.12
+fire>=0.6.0
 rich>=13.7
