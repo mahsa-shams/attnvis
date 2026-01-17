@@ -9,6 +9,8 @@ dependencies = [
     "numpy",
     "matplotlib",
     "torch",
+    "pydantic>=2.0",
+    "requests",
 ]
 
 [build-system]
